@@ -8,10 +8,13 @@ This was my first time both CADing and designing a PCB and was a lot of fun!
 QMK Firmware  
 
 ## Cad Model  
+![Fusion360_v3ZxqGDY6d](https://github.com/user-attachments/assets/28c1b03e-b56b-4c32-9e58-195c41722a28)
 
 ## PCB  
 ![kicad_3lwGVIdwW4](https://github.com/user-attachments/assets/c093b457-9fb4-42c3-80e1-bdf3e4050991)
 
 ## Case  
+![Fusion360_fHZLKCHhQo](https://github.com/user-attachments/assets/8406ef57-7ebe-42e4-95f5-5e3b4f19c997)
+![Fusion360_PGRqOPSh49](https://github.com/user-attachments/assets/b750c2d1-e228-4bf1-86d9-82884a4126f0)
 
 ## BOM  
