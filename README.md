@@ -18,3 +18,11 @@ QMK Firmware
 ![Fusion360_PGRqOPSh49](https://github.com/user-attachments/assets/b750c2d1-e228-4bf1-86d9-82884a4126f0)
 
 ## BOM  
+| Component                | Quantity |
+| ------------------------ | --       |
+| Seeed Studio XIAO RP2040 | 1        |
+| 3D printed case          | 1        |
+| 1N4148 Diodes            | 10       |
+| SK6812Mini LEDs          | 4        |
+| M3x16mm Screws           | 4        |
+| M3 Hex nuts              | 4        |
