@@ -10,6 +10,7 @@ QMK Firmware
 ## Cad Model  
 
 ## PCB  
+![kicad_3lwGVIdwW4](https://github.com/user-attachments/assets/c093b457-9fb4-42c3-80e1-bdf3e4050991)
 
 ## Case  
 
